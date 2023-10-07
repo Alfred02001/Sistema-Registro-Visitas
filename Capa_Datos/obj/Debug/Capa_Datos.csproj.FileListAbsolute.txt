@@ -1,0 +1,27 @@
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Datos\bin\Debug\Capa_Entidades.dll
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Datos\bin\Debug\Capa_Entidades.pdb
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Datos\obj\Debug\Capa_Datos.csproj.CopyComplete
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Datos\bin\Debug\Capa_Entidades.dll
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Datos\bin\Debug\Capa_Entidades.pdb
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Datos\obj\Debug\Capa_Datos.csproj.CopyComplete
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\new\OneDrive\Escritorio\SistemaVisitas-main\Sistema\Sistema de Visitas\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\new\OneDrive\Escritorio\SistemaVisitas-main\Sistema\Sistema de Visitas\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\new\OneDrive\Escritorio\SistemaVisitas-main\Sistema\Sistema de Visitas\Capa_Datos\bin\Debug\Capa_Entidades.dll
+C:\Users\new\OneDrive\Escritorio\SistemaVisitas-main\Sistema\Sistema de Visitas\Capa_Datos\bin\Debug\Capa_Entidades.pdb
+C:\Users\new\OneDrive\Escritorio\SistemaVisitas-main\Sistema\Sistema de Visitas\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\new\OneDrive\Escritorio\SistemaVisitas-main\Sistema\Sistema de Visitas\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\new\OneDrive\Escritorio\SistemaVisitas-main\Sistema\Sistema de Visitas\Capa_Datos\obj\Debug\Capa_Datos.csproj.CopyComplete
+C:\Users\new\OneDrive\Escritorio\SistemaVisitas-main\Sistema\Sistema de Visitas\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\new\OneDrive\Escritorio\SistemaVisitas-main\Sistema\Sistema de Visitas\Capa_Datos\obj\Debug\Capa_Datos.pdb
