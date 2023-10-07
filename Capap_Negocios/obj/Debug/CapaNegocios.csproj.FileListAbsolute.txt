@@ -1,0 +1,11 @@
+C:\Users\new\OneDrive\Escritorio\ProyectoFinalProgramacion\SistemaVisitas\Capap_Negocios\bin\Debug\Capap_Negocios.dll
+C:\Users\new\OneDrive\Escritorio\ProyectoFinalProgramacion\SistemaVisitas\Capap_Negocios\bin\Debug\Capap_Negocios.pdb
+C:\Users\new\OneDrive\Escritorio\ProyectoFinalProgramacion\SistemaVisitas\Capap_Negocios\bin\Debug\Capa_Datos.dll
+C:\Users\new\OneDrive\Escritorio\ProyectoFinalProgramacion\SistemaVisitas\Capap_Negocios\bin\Debug\Capa_Entidades.dll
+C:\Users\new\OneDrive\Escritorio\ProyectoFinalProgramacion\SistemaVisitas\Capap_Negocios\bin\Debug\Capa_Datos.pdb
+C:\Users\new\OneDrive\Escritorio\ProyectoFinalProgramacion\SistemaVisitas\Capap_Negocios\bin\Debug\Capa_Entidades.pdb
+C:\Users\new\OneDrive\Escritorio\ProyectoFinalProgramacion\SistemaVisitas\Capap_Negocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\new\OneDrive\Escritorio\ProyectoFinalProgramacion\SistemaVisitas\Capap_Negocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\new\OneDrive\Escritorio\ProyectoFinalProgramacion\SistemaVisitas\Capap_Negocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\new\OneDrive\Escritorio\ProyectoFinalProgramacion\SistemaVisitas\Capap_Negocios\obj\Debug\Capap_Negocios.dll
+C:\Users\new\OneDrive\Escritorio\ProyectoFinalProgramacion\SistemaVisitas\Capap_Negocios\obj\Debug\Capap_Negocios.pdb
